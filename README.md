@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ömer Önce
 - 👀 I’m interested in embedded systems and industrial automation solutions
-- 🌱 ARM cortex-m architecture and siemens PLC programming
+- 🌱 I'm learning ARM cortex-m architecture and siemens PLC programming
 - 📫 omeronce35@gmail.com
 
 <!---
